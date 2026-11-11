@@ -12,7 +12,7 @@ Convierte la iluminación de tu teclado en un panel de estado físico mientras t
 ## 📦 Descarga directa
 
 Puedes descargar el paquete listo para usar haciendo clic en:
-👉 **[Descargar Keychron-Antigravity-Pack.zip](Keychron-Antigravity-Pack.zip)**
+👉 **[Descargar Keychron-Antigravity-Pack.zip](https://github.com/ruanovaAlan/keychron-antigravity-cue/raw/main/Keychron-Antigravity-Pack.zip)**
 
 ---
 
